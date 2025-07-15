@@ -1,4 +1,4 @@
-# 🌦️ Weather App Front-End Design
+# 🌦️ Weather Forecast Front-End Design
  ## This is a responsive and modern front-end design for a Weather App built using HTML, CSS, and JavaScript. The design focuses on clean UI/UX, providing a smooth user experience for displaying real-time weather   ## information like temperature, humidity, wind speed, and weather conditions using visually appealing elements.
 
 # ✨ Features
